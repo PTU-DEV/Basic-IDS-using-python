@@ -297,6 +297,6 @@ It is fully modular, extendable, and ideal for cybersecurity internships, traini
 ## 🙌 Author
 [Roushan](https://github.com/Roushan-kr)
 
-Developed as part of Cyber Security Internship Training Project.
+Reuse for teaching basic cyber concept to student.
 
 ```
